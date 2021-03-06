@@ -22,6 +22,9 @@ const IndexPage = () => {
             <Image src="https://cloud-1dbtgci6g-hack-club-bot.vercel.app/0wheeeeeeeeeeeeee.png" alt="Person looking at phone" />
           </Box>
         </Flex>
+        <Box h={500} overflow="hidden">
+          <Image src="https://cloud-eg73rwxpg-hack-club-bot.vercel.app/0saly-17.png" alt="Person in pink bushes" />
+        </Box>
       </Layout>
   )
 }
