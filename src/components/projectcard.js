@@ -20,11 +20,6 @@ export default class ProjectCard extends React.Component {
                 </a>
                 <Text>{date}</Text><br/>
                 <Text noOfLines={[1,2,3,4,5,6]}>{blurb}</Text>
-                <a href={link}>
-                    {/* <Button borderRadius="20px" fontWeight="normal" bg="black" color="white" _hover={{ }}>
-                        {btn}
-                        </Button> */}
-                </a>
                 </Box>
             </Box>
             </ChakraProvider>

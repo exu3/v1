@@ -69,6 +69,16 @@ const ProjectsPage = () => {
                 link="https://github.com/eilla1/foothill-acs"
                 techStack="Gatsby, GraphQL, Contentful"
                 />      
+
+            <ProjectCard
+                image="https://cdn.discordapp.com/attachments/813282422426566666/818733173423996938/Screen_Shot_2021-03-08_at_10.32.59_PM.png"
+                alt="InnovateHER Website"
+                title="InnovateHER"
+                date="March 2021"
+                blurb="I built this website for the a month-long event empowering female and nonbinary students in STEM. The website serves to inform particpants of guidelines, information, and a gallery of project submissions from the community."
+                link="https://innovather.vercel.app/"
+                techStack="Gatsby, Chakra-UI"
+                />  
                 </Flex>
         </Layout>
     )
